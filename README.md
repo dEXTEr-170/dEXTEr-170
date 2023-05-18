@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-i'M fULLSTACk wEb dEVELEPOr /
+### i'M fULLSTACk wEb dEVELEPOr 👨‍💻
 
 
 ### Tech & Tools

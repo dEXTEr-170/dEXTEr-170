@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 
 ### i'M fULLSTACk wEb dEVELEPOr 👨‍💻
+<br>
 
+![](https://komarev.com/ghpvc/?username=dEXTEr-170&style=for-the-badge&color=red)
 
 <br>
 

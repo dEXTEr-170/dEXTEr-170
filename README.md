@@ -3,7 +3,7 @@
 
 ### Hi there! 👋
 
-I'm **Ali Al-Qarni**, a passionate full-stack web developer with a keen interest in creating innovative solutions and exploring new technologies.
+I'm **Ali Al-Qarni**, a passionate full-stack web developer with a keen interest in creating innovative solutions and exploring new technologies. I specialize in building responsive and user-friendly web applications using modern technologies like React, Next.js, and Flutter. With a strong foundation in HTML, CSS, JavaScript, and TypeScript, I enjoy solving complex problems and delivering high-quality solutions that meet user needs. Let's build something amazing together!
 
 ---
 
@@ -36,8 +36,9 @@ I'm **Ali Al-Qarni**, a passionate full-stack web developer with a keen interest
 
 ### Portfolio
 
-Check out my portfolio website to see some of my projects and learn more about me:
-[Portfolio](https://www.dexter170.com)
+Explore my portfolio website to discover some of my latest projects and learn more about my journey:
+
+[![Dexter Portfolio](https://img.shields.io/badge/Dexter-Portfolio-red?style=for-the-badge&logo=)](https://www.dexter170.com)
 
 ---
 

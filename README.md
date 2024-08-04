@@ -1,5 +1,4 @@
-<!-- Add an image at the top -->
-![Dexter170](https://github.com/dEXTEr-170/dEXTEr-170/assets/104230501/359ccf83-7ad1-472e-b9f8-ca63f3f1b8a4)
+![www Dexter170 com](https://github.com/user-attachments/assets/1232f7c3-018b-43c1-9158-ddbef43d7b7b)
 
 # Hi there! 👋
 

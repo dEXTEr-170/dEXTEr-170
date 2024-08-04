@@ -36,7 +36,7 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dEXTEr-170&show_icons=true&hide_border=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dEXTEr-170&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&v=2)
 
 ---
 
